@@ -5,6 +5,7 @@
 -  Tabela de horários inteligente
 	- Destaque automático para a data e hora atual
 	- Fotos das salas de cada aula para facilitar a localização
+	- Detecta a sala correta de cada aluno
 
 <br /><br />
 
