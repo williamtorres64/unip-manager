@@ -1,5 +1,5 @@
 # UNIP Manager
-## Uma ferramenta que visa auxiliar a organização dos alunos
+## Uma ferramenta que visa auxiliar os alunos
 
 ### Funcionalidades
 -  Tabela de horários inteligente
@@ -9,4 +9,4 @@
 
 <br /><br />
 
-Este software não é afiliado, endossado ou mantido pela Universidade Paulista (UNIP). Trata-se de uma ferramenta independente, desenvolvida com o objetivo de auxiliar na organização acadêmica dos alunos. O uso deste software é de responsabilidade exclusiva do usuário, não havendo qualquer garantia de compatibilidade ou suporte oficial por parte da UNIP.
+Este software não é afiliado, endossado ou mantido pela Universidade Paulista (UNIP). Trata-se de uma ferramenta independente, desenvolvida com o objetivo de auxiliar os alunos. O uso deste software é de responsabilidade exclusiva do usuário, não havendo qualquer garantia de compatibilidade ou suporte oficial por parte da UNIP.
