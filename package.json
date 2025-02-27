@@ -1,0 +1,27 @@
+{
+	"name": "unip-manager",
+	"version": "0.0.1",
+	"description": "### Funcionalidades -  Tabela de horários inteligente \t- Destaque automático para a data e hora atual \t- Fotos das salas de cada aula para facilitar a localização",
+	"main": "index.js",
+	"scripts": {
+		"devStart": "nodemon server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/williamtorres64/unip-manager.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/williamtorres64/unip-manager/issues"
+	},
+	"homepage": "https://github.com/williamtorres64/unip-manager#readme",
+	"dependencies": {
+		"bidirectional-map": "^1.1.1",
+		"ejs": "^3.1.10",
+		"express": "^4.21.2"
+	},
+	"devDependencies": {
+		"nodemon": "^3.1.9"
+	}
+}
